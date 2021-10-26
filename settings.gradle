@@ -1,1 +1,3 @@
+rootProject.name = "maia-standard-nodes"
+includeBuild "../maia-build"
 includeBuild "../maia-topology"
